@@ -25,3 +25,20 @@ c = float(input('Enter third lenght '))   #10
 trianlge =(c*c == a * a + b * b )
 print(trianlge)
 
+
+user = input(['Enter list'])
+
+print(user[::-1])
+
+
+a = ('1', '2', '3', '5', '8')
+b = ('8', '2', '5')
+
+a = list(a)
+a.insert(2, b[2])
+a.insert(2, b[1])
+a.insert(2, b[0])
+a = tuple(a)
+
+
+print(a)
