@@ -33,14 +33,14 @@ print(datetime.datetime.fromtimestamp(some_day))
 # Write a function to subtract 2 weeks from timestamp and return new timestamp
 # input: timestamp (float)
 # output: timestamp (float)
-time_stamp = int(input('Enter time stamp: '))  #1603872636
-time = datetime.datetime.fromtimestamp(time_stamp)
-two_weeks = time - datetime.timedelta(days = 14 )
-new_time_stamp = two_weeks.timestamp()
 
-print(f'Your new timestamp is : {new_time_stamp}\nGMT input time is :{time}\nGMT output time is :{two_weeks} ')
+def main():
+    time_stamp=int(input('Enter time stamp: '))
+    time = datetime.datetime.fromtimestamp(time_stamp)
+    two_weeks = time - datetime.timedelta(days = 14 )
+    new_time_stamp = two_weeks.timestamp()
+    print(f'Your new timestamp is : {new_time_stamp}\nGMT input time is :{time}\nGMT output time is :{two_weeks} ')
 
-
-
+main()
 
 
