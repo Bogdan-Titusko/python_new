@@ -86,6 +86,8 @@ while True:
                     validate3 = (int(validate2) * 11)
                     validate4 = (validate - validate3)
                     print(f'Your validate number is :' + str(validate4))
+                else:
+                    print('Erorr')
             if user_choice == '5':
                 break
             if user_choice == '0':
