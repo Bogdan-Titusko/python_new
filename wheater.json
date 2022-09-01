@@ -1,0 +1,245 @@
+{
+  "Heltermaa": {
+    "Air temp average": "Heltermaa",
+    " Air temp maximum": "19,3",
+    "Air temp minimum": "22,3",
+    "Graund temp 2cm": "17,6",
+    "Humidity average": "",
+    "Humidity minimal": "",
+    "Air speed maximum": "95"
+  },
+  "J\u00f5geva": {
+    "Air temp average": "J\u00f5geva",
+    " Air temp maximum": "21,7",
+    "Air temp minimum": "29,2",
+    "Graund temp 2cm": "15,8",
+    "Humidity average": "",
+    "Humidity minimal": "",
+    "Air speed maximum": "76"
+  },
+  "J\u00f5hvi": {
+    "Air temp average": "J\u00f5hvi",
+    " Air temp maximum": "21,9",
+    "Air temp minimum": "27,2",
+    "Graund temp 2cm": "16,6",
+    "Humidity average": "",
+    "Humidity minimal": "",
+    "Air speed maximum": "80"
+  },
+  "Kihnu": {
+    "Air temp average": "Kihnu",
+    " Air temp maximum": "21,2",
+    "Air temp minimum": "26,2",
+    "Graund temp 2cm": "18,4",
+    "Humidity average": "",
+    "Humidity minimal": "",
+    "Air speed maximum": "88"
+  },
+  "Kunda": {
+    "Air temp average": "Kunda",
+    " Air temp maximum": "20,8",
+    "Air temp minimum": "29,9",
+    "Graund temp 2cm": "17,6",
+    "Humidity average": "",
+    "Humidity minimal": "",
+    "Air speed maximum": "86"
+  },
+  "Kuressaare linn": {
+    "Air temp average": "Kuressaare linn",
+    " Air temp maximum": "19,0",
+    "Air temp minimum": "21,9",
+    "Graund temp 2cm": "17,6",
+    "Humidity average": "",
+    "Humidity minimal": "",
+    "Air speed maximum": "93"
+  },
+  "Kuusiku": {
+    "Air temp average": "Kuusiku",
+    " Air temp maximum": "20,1",
+    "Air temp minimum": "25,7",
+    "Graund temp 2cm": "14,3",
+    "Humidity average": "",
+    "Humidity minimal": "",
+    "Air speed maximum": "85"
+  },
+  "L\u00e4\u00e4ne-Nigula": {
+    "Air temp average": "L\u00e4\u00e4ne-Nigula",
+    " Air temp maximum": "19,2",
+    "Air temp minimum": "23,6",
+    "Graund temp 2cm": "14,9",
+    "Humidity average": "",
+    "Humidity minimal": "",
+    "Air speed maximum": "90"
+  },
+  "Narva": {
+    "Air temp average": "Narva",
+    " Air temp maximum": "22,0",
+    "Air temp minimum": "29,8",
+    "Graund temp 2cm": "15,4",
+    "Humidity average": "",
+    "Humidity minimal": "",
+    "Air speed maximum": "79"
+  },
+  "Pakri": {
+    "Air temp average": "Pakri",
+    " Air temp maximum": "20,4",
+    "Air temp minimum": "22,9",
+    "Graund temp 2cm": "18,6",
+    "Humidity average": "",
+    "Humidity minimal": "",
+    "Air speed maximum": "86"
+  },
+  "P\u00e4rnu": {
+    "Air temp average": "P\u00e4rnu",
+    " Air temp maximum": "21,8",
+    "Air temp minimum": "26,6",
+    "Graund temp 2cm": "19,5",
+    "Humidity average": "",
+    "Humidity minimal": "",
+    "Air speed maximum": "82"
+  },
+  "Ristna": {
+    "Air temp average": "Ristna",
+    " Air temp maximum": "19,1",
+    "Air temp minimum": "20,5",
+    "Graund temp 2cm": "18,0",
+    "Humidity average": "",
+    "Humidity minimal": "",
+    "Air speed maximum": "89"
+  },
+  "Roomassaare": {
+    "Air temp average": "Roomassaare",
+    " Air temp maximum": "19,4",
+    "Air temp minimum": "23,0",
+    "Graund temp 2cm": "18,4",
+    "Humidity average": "",
+    "Humidity minimal": "",
+    "Air speed maximum": "90"
+  },
+  "Ruhnu": {
+    "Air temp average": "Ruhnu",
+    " Air temp maximum": "21,2",
+    "Air temp minimum": "23,4",
+    "Graund temp 2cm": "19,2",
+    "Humidity average": "",
+    "Humidity minimal": "",
+    "Air speed maximum": "88"
+  },
+  "S\u00f5rve": {
+    "Air temp average": "S\u00f5rve",
+    " Air temp maximum": "19,4",
+    "Air temp minimum": "21,3",
+    "Graund temp 2cm": "17,5",
+    "Humidity average": "",
+    "Humidity minimal": "",
+    "Air speed maximum": "96"
+  },
+  "Tallinn-Harku": {
+    "Air temp average": "Tallinn-Harku",
+    " Air temp maximum": "20,7",
+    "Air temp minimum": "26,8",
+    "Graund temp 2cm": "18,4",
+    "Humidity average": "15,8",
+    "Humidity minimal": "17,2",
+    "Air speed maximum": "87"
+  },
+  "Tartu-T\u00f5ravere": {
+    "Air temp average": "Tartu-T\u00f5ravere",
+    " Air temp maximum": "24,0",
+    "Air temp minimum": "31,1",
+    "Graund temp 2cm": "17,0",
+    "Humidity average": "15,5",
+    "Humidity minimal": "13,1",
+    "Air speed maximum": "63"
+  },
+  "Tiirikoja": {
+    "Air temp average": "Tiirikoja",
+    " Air temp maximum": "20,8",
+    "Air temp minimum": "26,2",
+    "Graund temp 2cm": "15,5",
+    "Humidity average": "",
+    "Humidity minimal": "",
+    "Air speed maximum": "87"
+  },
+  "Tooma": {
+    "Air temp average": "Tooma",
+    " Air temp maximum": "22,0",
+    "Air temp minimum": "28,2",
+    "Graund temp 2cm": "16,2",
+    "Humidity average": "14,3",
+    "Humidity minimal": "",
+    "Air speed maximum": "76"
+  },
+  "T\u00fcri": {
+    "Air temp average": "T\u00fcri",
+    " Air temp maximum": "21,7",
+    "Air temp minimum": "28,6",
+    "Graund temp 2cm": "15,5",
+    "Humidity average": "",
+    "Humidity minimal": "",
+    "Air speed maximum": "77"
+  },
+  "Valga": {
+    "Air temp average": "Valga",
+    " Air temp maximum": "23,4",
+    "Air temp minimum": "30,4",
+    "Graund temp 2cm": "17,0",
+    "Humidity average": "",
+    "Humidity minimal": "",
+    "Air speed maximum": "67"
+  },
+  "Viljandi": {
+    "Air temp average": "Viljandi",
+    " Air temp maximum": "22,4",
+    "Air temp minimum": "29,6",
+    "Graund temp 2cm": "15,4",
+    "Humidity average": "",
+    "Humidity minimal": "",
+    "Air speed maximum": "74"
+  },
+  "Vilsandi": {
+    "Air temp average": "Vilsandi",
+    " Air temp maximum": "19,5",
+    "Air temp minimum": "21,3",
+    "Graund temp 2cm": "17,9",
+    "Humidity average": "17,5",
+    "Humidity minimal": "",
+    "Air speed maximum": "91"
+  },
+  "Virtsu": {
+    "Air temp average": "Virtsu",
+    " Air temp maximum": "20,2",
+    "Air temp minimum": "23,3",
+    "Graund temp 2cm": "17,3",
+    "Humidity average": "",
+    "Humidity minimal": "",
+    "Air speed maximum": "85"
+  },
+  "V\u00f5ru": {
+    "Air temp average": "V\u00f5ru",
+    " Air temp maximum": "24,8",
+    "Air temp minimum": "31,2",
+    "Graund temp 2cm": "18,3",
+    "Humidity average": "",
+    "Humidity minimal": "",
+    "Air speed maximum": "59"
+  },
+  "V\u00e4ike-Maarja": {
+    "Air temp average": "V\u00e4ike-Maarja",
+    " Air temp maximum": "22,0",
+    "Air temp minimum": "28,9",
+    "Graund temp 2cm": "16,1",
+    "Humidity average": "",
+    "Humidity minimal": "",
+    "Air speed maximum": "74"
+  },
+  "Peipsi poijaam": {
+    "Air temp average": "Peipsi poijaam",
+    " Air temp maximum": "",
+    "Air temp minimum": "24,4",
+    "Graund temp 2cm": "19,4",
+    "Humidity average": "",
+    "Humidity minimal": "",
+    "Air speed maximum": ""
+  }
+}
